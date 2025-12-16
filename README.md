@@ -7,6 +7,7 @@ Welcome to the Backend Development Projects Repository! This repository contains
 1. [Introduction](#introduction)
 2. [Practice Exercises](#practice-projects)
     - [Project 1: RESTful API with Express.js](#project-1-restful-api-with-expressjs-mongndb)
+    - [Practice 3: RESTful API with Nestjs + Mysql](#project-3-resful-api-with-nestjs-mysql)
 
 ## [Introduction](https://github.com/arindam-chowdhury/Backend-Practice#introduction)
 
@@ -23,3 +24,11 @@ Features:
 - RESTful routing
 - Error handling
 - Middleware usage
+
+### [Project 3: RESTful API with Nestjs + Mysql](https://github.com/arindam-chowdhury/Backend-Practice#project-3-resful-api-with-nestjs-mysql)
+
+Description: Build a RESTful API using Nestjs that interacts with a MYSQL database.
+
+Features:
+- CRUD operations (Create, Read)
+- RESTful routing
